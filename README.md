@@ -1,16 +1,20 @@
-### Hi there 👋
+I'm He Tianyi.
+========
 
-<!--
-**HYPER-THEORY/HYPER-THEORY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Projects ###
 
-Here are some ideas to get you started:
+Ink 3D
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Lightweight framework for 3D rendering.
+
+MMMocap
+
+- Multi-View Multi-Person Motion Capture system.
+
+GeometryLib
+
+- An algorithm library for Computational Geometry.
+
+Seasons
+
+- A platform game by C++ with a simple graphic library and physics engine.
