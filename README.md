@@ -2,7 +2,7 @@
 
 <table style="width:100%;" align="center">
   <th>
-    <img src="https://s2.loli.net/2023/04/14/QGzliq5ruNJHAvp.png" alt="drawing"/>
+    <a href="https://sm.ms/image/m2jw7O5tQTVEkXe" target="_blank"><img src="https://s2.loli.net/2023/04/15/m2jw7O5tQTVEkXe.png" ></a>
   </th>
   <th align="left">
     <h3> Projects </h3>
